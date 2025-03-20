@@ -1,0 +1,16 @@
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+h2 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h3 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#mapa {
+    border: 5px solid #000;
+}
