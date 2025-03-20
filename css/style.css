@@ -1,7 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 h1 {
-    font-family: Arial, sans-serif;
-    font-size: 50px;
+    font-family: "Roboto", sans-serif;
+    font-size: 70px;
     text-align: center;
+    font-weight: 900;
 }
 h2 {
     font-family: Arial, sans-serif;
@@ -13,4 +16,7 @@ h3 {
 }
 #mapa {
     border: 5px solid #000;
+}
+hr {
+    border:2px solid;
 }
