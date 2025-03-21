@@ -13,6 +13,7 @@ h2 {
 h3 {
     font-family: Arial, sans-serif;
     text-align: center;
+    margin-bottom: 20px;
 }
 #mapa {
     border: 5px solid #000;
